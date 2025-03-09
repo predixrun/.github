@@ -4,9 +4,9 @@
 Predix is an AI driven, prompt-based PvP prediction market built on the Solana blockchain. The platform enhances reliability through decentralized smart contract logic, real-time oracle data, and AI powered automation for market creation, resolution, and payouts. Predix enables users to create and participate in prediction markets seamlessly, leveraging Solana’s high-speed, low-cost transactions.
 
 ---
-https://predix-dev.s3.ap-northeast-2.amazonaws.com/Home%5Bconnect-wallet%5D_show-games.png
+![Description](https://predix-dev.s3.ap-northeast-2.amazonaws.com/Home%5Bconnect-wallet%5D_show-games.png) 
 
-https://predix-dev.s3.ap-northeast-2.amazonaws.com/chatting_.png
+![Description](https://predix-dev.s3.ap-northeast-2.amazonaws.com/chatting_.png) 
 ---
 
 ## Key Features
