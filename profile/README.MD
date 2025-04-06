@@ -186,6 +186,7 @@ VAAs and cross-chain events are tracked using Wormhole SDK event listeners and v
 
 Ensures tamper-proof cross-chain operations for all token flows and settlement processes.
 
+- txHash : https://wormholescan.io/#/tx/0x6bcd4e8e89a8b89427aa1ec083e724a2f7ed6eddcc3e6cdf648699390a5ffde6?network=Testnet
 
 ---
 
