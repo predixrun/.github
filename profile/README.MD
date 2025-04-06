@@ -150,6 +150,45 @@ let result = claim_token(ctx);
 
 ---
 
+## Wormhole SDK
+🔹 Cross-Chain Token Transfers with Token Bridge & CCTP
+Integrated Wormhole Token Bridge and CCTP (Circle Cross-Chain Transfer Protocol) to support native USDC and other wrapped assets across supported chains.
+
+Users can deposit and wager using tokens from chains like Ethereum, Base, BNB, Arbitrum, Optimism, and more.
+
+Transfers are initiated via the PrediX Agent and relayed to Solana using VAA (Verified Action Approval) messages handled by Wormhole’s core infrastructure.
+
+🔹 Cross-Chain Settlement Layer & Queries
+Utilizes Wormhole's Query and Settlement Layer to validate and verify transactions from source chains in real time.
+
+Enables automated resolution of PvP markets where the wagered token originates from a different chain.
+
+Provides proof-of-origin and finality checks to ensure trustless cross-chain settlement.
+
+🔹 Wormhole SDK via PrediX Agent (AI Control Layer)
+Wormhole SDK functions are abstracted through the PrediX AI Agent, allowing users to interact with cross-chain features using natural language prompts.
+
+“Bridge 20 USDC from Base to Solana and place a bet.”
+
+“Withdraw winnings to my Ethereum wallet.”
+
+Wormhole’s cross-chain functions are exposed as AI-callable operations using an internal wrapper around Wormhole SDK APIs.
+
+🔹 Upcoming: Chain-vs-Chain Wagering
+Infrastructure is being expanded to support Chain-vs-Chain PvP prediction matches:
+
+e.g., Solana users vs Base users betting on major events using native assets.
+
+Wormhole SDK ensures trustless interaction and resolution across different L1/L2 ecosystems.
+
+🔹 Security and Monitoring
+VAAs and cross-chain events are tracked using Wormhole SDK event listeners and verified using the Guardians network.
+
+Ensures tamper-proof cross-chain operations for all token flows and settlement processes.
+
+
+---
+
 ## Business Model
 PrediX operates on a sustainable revenue model through transaction-based fees and SocialFi partnerships:
 
