@@ -1,7 +1,7 @@
-# Predix - AI-Powered PvP Prediction Market
+# PrediX - AI-Powered PvP Prediction Market
 
 ## Overview
-Predix is an AI driven, prompt-based PvP prediction market built on the Solana blockchain. The platform enhances reliability through decentralized smart contract logic, real-time oracle data, and AI powered automation for market creation, resolution, and payouts. Predix enables users to create and participate in prediction markets seamlessly, leveraging Solana’s high-speed, low-cost transactions.
+PrediX is an AI driven, prompt-based PvP prediction market built on the Solana blockchain. The platform enhances reliability through decentralized smart contract logic, real-time oracle data, and AI powered automation for market creation, resolution, and payouts. PrediX enables users to create and participate in prediction markets seamlessly, leveraging Solana's high-speed, low-cost transactions, and now features cross-chain capabilities through Wormhole integration.
 
 ---
 <p align="center">
@@ -23,10 +23,16 @@ Predix is an AI driven, prompt-based PvP prediction market built on the Solana b
 - All transactions are recorded on-chain, ensuring transparency.
 - Market resolution is fully automated using AI and on-chain governance.
 
+### ✅ Cross-Chain Support via Wormhole
+- Seamlessly move assets across multiple blockchains with Wormhole integration.
+- Support for native USDC and other tokens through CCTP & Token Bridge.
+- Secure settlement layer and cross-chain queries for reliable verification.
+- Bet with tokens from different chains without manual bridging.
+
 ### ✅ Solana-Optimized Trading & Wallet System
-- Users deposit SOL into an embedded wallet to place bets.
+- Users deposit SOL and other supported tokens into an embedded wallet to place bets.
 - Integrated with Jupiter API for seamless swaps between SOL, altcoins, and meme coins.
-- Future support for EVM asset top-up and cash-out solutions.
+- Cross-chain asset top-up and cash-out solutions.
 
 ### ✅ SocialFi & Community Engagement
 - **PnL NFT Cards**: Users can mint and share performance-based NFTs via Metaplex.
@@ -34,7 +40,7 @@ Predix is an AI driven, prompt-based PvP prediction market built on the Solana b
 - **Blink Integration for X (Twitter) Interaction**: Create and join markets directly from X.
 
 ### ✅ Fast, Feeless Transactions
-- Users can place bets with minimal transaction fees thanks to Solana’s low-cost architecture.
+- Users can place bets with minimal transaction fees thanks to Solana's low-cost architecture.
 - Optimized for real-time, high-frequency trading.
 
 ### ✅ AI-Powered Prompt System
@@ -48,7 +54,7 @@ Predix is an AI driven, prompt-based PvP prediction market built on the Solana b
 
 ---
 
-## How Predix Leverages Solana
+## How PrediX Leverages Solana & Wormhole
 
 ### 🔹 High-Speed Transactions
 - Solana’s high throughput enables real-time market creation and settlement.
@@ -145,7 +151,7 @@ let result = claim_token(ctx);
 ---
 
 ## Business Model
-Predix operates on a sustainable revenue model through transaction-based fees and SocialFi partnerships:
+PrediX operates on a sustainable revenue model through transaction-based fees and SocialFi partnerships:
 
 ### 🔹 Market Resolution Fee
 - A **3% fee** is deducted from the total payout of completed predictions to sustain platform operations.
