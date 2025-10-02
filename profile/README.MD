@@ -1,7 +1,7 @@
 # PrediX - AI-Powered PvP Prediction Market
 
 ## Overview
-PrediX is an AI driven, prompt-based PvP prediction market built on the Solana blockchain. The platform enhances reliability through decentralized smart contract logic, real-time oracle data, and AI powered automation for market creation, resolution, and payouts. PrediX enables users to create and participate in prediction markets seamlessly, leveraging Solana's high-speed, low-cost transactions, and now features cross-chain capabilities through Wormhole integration.
+PrediX is an AI driven, prompt-based PvP prediction market built on the Solana. The platform enhances reliability through decentralized smart contract logic, real-time oracle data, and AI powered automation for market creation, resolution, and payouts. PrediX enables users to create and participate in prediction markets seamlessly, leveraging Solana's high-speed, low-cost transactions, and now features cross-chain capabilities through Wormhole integration.
 
 ---
 <p align="center">
